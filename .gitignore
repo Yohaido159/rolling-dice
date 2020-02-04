@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+/src_copy
+/src-POKEMON
+/src-monster
+/pure-react
 
 # testing
 /coverage
